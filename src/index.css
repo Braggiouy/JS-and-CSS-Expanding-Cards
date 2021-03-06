@@ -33,7 +33,8 @@ body {
   flex: 0.5;
   margin: 10px;
   position: relative;
-  transition: flex 1s ease-in;
+  transition: flex 0.5s ease-in;
+  cursor: pointer;
 }
 
 .photo h3 {
@@ -50,5 +51,6 @@ body {
 
 .photo.active h3 {
   opacity: 1;
+  transition-delay: 0.5s;
 }
 
