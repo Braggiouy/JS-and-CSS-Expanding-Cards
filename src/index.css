@@ -24,6 +24,26 @@ body {
   margin: 0;
 }
 
+.thailand{
+  background-image: url('./assets/thailand.jpg');
+}
+
+.vietnam{
+  background-image: url('./assets/vietnam.jpg');
+}
+
+.uruguay{
+  background-image: url('./assets/uruguay.jpg');
+}
+
+.canary{
+  background-image: url('./assets/canary.jpg');
+
+}
+.germany{
+  background-image: url("./assets/germany.jpeg");
+}
+
 .photo {
   background-size: cover;
   background-position: center;
